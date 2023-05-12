@@ -12,6 +12,7 @@ import {
 import tailwindStylesheetUrl from "./styles/tailwind.css";
 import { getUser } from "./session.server";
 import Navbar from "./components/navbar";
+import footer from "./components/footer";
 
 export const links: LinksFunction = () => {
   return [{ rel: "stylesheet", href: tailwindStylesheetUrl }];

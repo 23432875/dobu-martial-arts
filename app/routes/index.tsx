@@ -1,7 +1,8 @@
-import { MetaFunction } from "@remix-run/node";
+import type { MetaFunction } from "@remix-run/node";
 import { Link } from "@remix-run/react";
 import Navbar from "~/components/navbar";
 import karate from "~/assets/jpg/karate1.jpg";
+
 
 
 import { useOptionalUser } from "~/utils";

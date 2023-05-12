@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\app",
+    "\\app\\components",
+    "\\app\\components\\footer",
+    "\\app\\components\\navbar",
+    "\\app\\routes",
+    "\\app\\routes\\notes"
   ],
-  "SelectedNode": "\\.gitpod.Dockerfile",
+  "SelectedNode": "\\app\\root.tsx",
   "PreviewInSolutionExplorer": false
 }
